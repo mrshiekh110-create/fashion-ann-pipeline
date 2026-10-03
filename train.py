@@ -15,3 +15,4 @@ h = m.fit(d["xtr"], d["ytr"], validation_data=(d["xv"], d["yv"]),
 os.makedirs("models", exist_ok=True)
 m.save("models/model.h5")
 pd.DataFrame(h.history).to_csv("models/history.csv", index=False)
+# tuned later
