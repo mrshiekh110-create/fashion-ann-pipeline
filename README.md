@@ -1,4 +1,4 @@
-# Fashion ANN Pipeline - Fixed
+# Fashion ANN Pipeline (fixed)
 
 Fashion-MNIST ANN classifier built with TensorFlow.
 Versioned with Git and DVC.
